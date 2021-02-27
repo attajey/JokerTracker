@@ -1,0 +1,15 @@
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\bin\Debug\PokerTracker.exe.config
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\bin\Debug\PokerTracker.exe
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\bin\Debug\PokerTracker.pdb
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.csprojAssemblyReference.cache
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.Form1.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.Properties.Resources.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.csproj.GenerateResource.cache
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.csproj.CoreCompileInputs.cache
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.exe
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.pdb
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.Form2.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.sessionView.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.About.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.Form5.resources
+C:\Users\attaj\source\repos\PokerTracker\PokerTracker\obj\Debug\PokerTracker.Form6.resources
